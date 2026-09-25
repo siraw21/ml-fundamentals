@@ -39,7 +39,7 @@ import time
 
 start_time = time.perf_counter()
 
-number = 1000000
+number = 100000
 
 # Assume every number is prime initially
 is_prime = [True] * number
